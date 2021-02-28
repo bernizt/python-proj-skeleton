@@ -1,0 +1,2 @@
+# This file should include only the external modules required by your script
+# You can create it by running '.venv\Scripts\pip.exe freeze > requirements.txt'
